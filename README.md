@@ -11,7 +11,7 @@ A desktop application for finding profitable trading opportunities in Warframe M
 - Dark/Light theme support
 
 ## Screenshots
-[Capture](https://github.com/user-attachments/assets/9b57abb0-30d7-4d89-942f-4c2b25774467)
+![Warframe Market Trader Main Window](images/screenshot.png)
 
 
 ## Installation
